@@ -35,10 +35,10 @@ npm run e2e
 
 ## Autor
 
-👤 **Stalin Maza <stalin_ct97@hotmail.com> (https://www.stalinmaza.com)**
+👤 **Stalin Maza**
 
-* Website: https://www.stalinmaza.com
-* Demo: (Hosting by Netlify)(https://ng-price-category-validations.netlify.app/)
+* Website: [stalinmaza.com](https://www.stalinmaza.com)
+* Demo: [NGPrices](https://ng-price-category-validations.netlify.app/)
 * Twitter: [@stalinct97](https://twitter.com/stalinct97)
 * Github: [@StalinMazaEpn](https://github.com/StalinMazaEpn)
 * LinkedIn: [@stalinmazaepn18](https://linkedin.com/in/stalinmazaepn18)
