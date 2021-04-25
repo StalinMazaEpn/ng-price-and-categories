@@ -1,0 +1,5 @@
+<div class="container-errors" *ngIf="ctrl && ctrl.errors">
+    <small class="error-item" *ngFor="let error of listOfErrors();trackBy: trackByErrors">
+            {{error}}
+    </small>
+</div>

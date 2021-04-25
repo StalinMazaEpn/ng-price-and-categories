@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.container-errors {
+  .error-item {
+      color: #e74c3c;
+      display: block;
+      margin-bottom: 5px;
+      display: none;
+      text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 3px #fde6e8;
+      &:first-child {
+          margin-top: 4px;
+          display: block !important;
+      }
+  }
+}

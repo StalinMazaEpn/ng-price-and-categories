@@ -1,0 +1,16 @@
+<div class="modal-header">
+  <h5 class="modal-title">Edición de Categoría</h5>
+  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" (click)="close()"></button>
+</div>
+<div class="modal-body">
+  <form>
+    <div class="mb-3">
+      <label for="name" class="form-label">Nombre</label>
+      <input type="text" class="form-control" id="name" [formControl]="formControlApp" aria-describedby="name">
+    </div>
+  </form>
+</div>
+<div class="modal-footer">
+  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" (click)="close()">Cerrar</button>
+  <button type="button" class="btn btn-primary" (click)="save()">Guardar Cambios</button>
+</div>

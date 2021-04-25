@@ -1,27 +1,50 @@
-# NgPriceAndCategories
+<h1 align="center">Bienvenido al Proyecto de Precios & Categorias 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/stalinct97" target="_blank">
+    <img alt="Twitter: stalinct97" src="https://img.shields.io/twitter/follow/stalinct97.svg?style=social" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
+> Proyecto tipo mini prototipo que aplica reglas de validaciones en Angular
 
-## Development server
+## Instalacion
+Para ejecutar el proyecto lo clonas o lo descargas, luego abres la consola o terminal de comandos en el directorio donde esta el proyecto y ejecutas el siguiente comando para instalar las dependencias.
+```sh
+npm install
+```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Como ejecutar el proyecto
+Una vez se instalaron correctamente todas las dependencias, se puede ejecutar el proyecto con el siguiente comando y se abrira en el navegador una pestaña con el proyecto ejecutandose.
 
-## Code scaffolding
+```sh
+npm run start
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Como ejecutar los test unitarios
+Este proyecto no tiene pruebas unitarias incluidas por el momento, pero cuando se incluyan se podrán ejecutar con el siguiente comando.
+```sh
+npm run test
+```
 
-## Build
+## Como ejecutar los test unitarios
+Este proyecto no tiene pruebas de integración incluidas por el momento, pero cuando se incluyan se podrán ejecutar con el siguiente comando.
+```sh
+npm run e2e
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Autor
 
-## Running unit tests
+👤 **Stalin Maza <stalin_ct97@hotmail.com> (https://www.stalinmaza.com)**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Website: https://www.stalinmaza.com
+* Twitter: [@stalinct97](https://twitter.com/stalinct97)
+* Github: [@StalinMazaEpn](https://github.com/StalinMazaEpn)
+* LinkedIn: [@stalinmazaepn18](https://linkedin.com/in/stalinmazaepn18)
 
-## Running end-to-end tests
+## Muéstrame tu apoyo
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Regálame  una ⭐️ si este proyecto te fue útil!
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+***
+Este proyecto fue creado con  ❤️ por Stalin Maza

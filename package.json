@@ -1,10 +1,11 @@
 {
   "name": "ng-price-and-categories",
-  "version": "0.0.0",
+  "author": "Stalin Maza <stalin_ct97@hotmail.com> (https://www.stalinmaza.com)",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "start": "ng serve -o --port=3200",
+    "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -19,6 +20,9 @@
     "@angular/platform-browser": "~10.2.4",
     "@angular/platform-browser-dynamic": "~10.2.4",
     "@angular/router": "~10.2.4",
+    "@rxweb/reactive-form-validators": "^2.1.2",
+    "bootstrap": "4.1.1",
+    "ngx-bootstrap": "^6.2.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
