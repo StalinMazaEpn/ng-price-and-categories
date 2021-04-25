@@ -38,6 +38,7 @@ npm run e2e
 👤 **Stalin Maza <stalin_ct97@hotmail.com> (https://www.stalinmaza.com)**
 
 * Website: https://www.stalinmaza.com
+* Demo: (Hosting by Netlify)(https://ng-price-category-validations.netlify.app/)
 * Twitter: [@stalinct97](https://twitter.com/stalinct97)
 * Github: [@StalinMazaEpn](https://github.com/StalinMazaEpn)
 * LinkedIn: [@stalinmazaepn18](https://linkedin.com/in/stalinmazaepn18)
